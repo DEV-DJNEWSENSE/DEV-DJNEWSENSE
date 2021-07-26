@@ -20,7 +20,7 @@
 <strong>💡 My Languages :</strong><br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-DJNEWSENSE&langs_count_private=true&theme=radical&card_width=445)<br><br>
 <strong>🚀 My Latest Update :</strong><br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEV-DJNEWSENSE&repo=DEV-DJNEWSENSE&theme=radical)](https://github.com/Kathryn-Jie/Kathryn-Jie)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEV-DJNEWSENSE&repo=DEV-DJNEWSENSE&theme=radical)](https://github.com/DEV-DJNEWSENSE/DEV-DJNEWSENSE)
 </div>
 
 <p>
