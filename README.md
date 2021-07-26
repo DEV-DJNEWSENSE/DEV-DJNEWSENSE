@@ -56,7 +56,7 @@
 <p>
 
 ### 😜Here's a Joke for you:
-<img hight="250" width="400" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/666988144729522216/869154702535835688/DazzlingThickDodo-size_restricted.gif">
+<img hight="200" width="350" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/666988144729522216/869154702535835688/DazzlingThickDodo-size_restricted.gif">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ### and some [🦜 parrots](https://cultofthepartyparrot.com):
